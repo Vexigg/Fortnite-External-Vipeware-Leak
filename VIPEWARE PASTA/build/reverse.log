@@ -1,0 +1,839 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(153,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(153,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(153,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(182,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(183,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(184,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(185,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(186,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(187,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(188,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(189,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(190,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(191,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(192,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(193,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(194,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(195,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(196,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(197,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(198,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(199,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(200,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(201,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(202,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(203,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(204,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(205,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(240,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(241,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(242,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(262,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(263,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(264,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(276,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Comms\driver.hpp(66,13): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Comms\driver.hpp(74,13): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Comms\driver.hpp(84,13): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(27,6):
+  see declaration of 'hwnd'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Keybind.h(55,22): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Keybind.h(71,24): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Keybind.h(87,25): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Keybind.h(103,23): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Keybind.h(119,26): warning C4100: 'blank': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Keybind.h(785,14): warning C4459: declaration of 'aimkeys' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(52,20):
+  see declaration of 'aimkeys'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\json.hpp(5937,58): warning C4459: declaration of 'h' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Print.hpp(13,8):
+  see declaration of 'h'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\json.hpp(9131,42): warning C4459: declaration of 'num' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Print.hpp(14,5):
+  see declaration of 'num'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\json.hpp(16959,29): warning C4459: declaration of 'h' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Print.hpp(13,8):
+  see declaration of 'h'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(47,37): warning C4459: declaration of 'hwnd' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(27,6):
+  see declaration of 'hwnd'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(91,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(91,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(91,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(91,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(91,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(91,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,183): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(96,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(101,177): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(101,159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(101,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(101,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(99,65): warning C4100: 'thickness': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(99,44): warning C4100: 'y2': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(99,36): warning C4100: 'x2': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(99,28): warning C4100: 'y1': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(99,20): warning C4100: 'x1': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(106,212): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(106,194): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(106,176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(106,158): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(104,48): warning C4100: 'H': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(104,39): warning C4100: 'W': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(104,30): warning C4100: 'Y': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(104,21): warning C4100: 'X': unreferenced formal parameter
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(112,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(145,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(145,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(146,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(146,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(147,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(147,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(148,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(148,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(151,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(152,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(153,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(154,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(155,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(156,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(157,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(158,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(161,52): warning C4459: declaration of 'h' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Print.hpp(13,8):
+  see declaration of 'h'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(165,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(165,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(165,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(165,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(168,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(168,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(168,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(168,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(171,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(171,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(171,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(171,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(174,106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(174,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(174,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(174,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(185,3): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(181,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(181,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(180,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(180,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(253,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(253,6): warning C4189: 'len': local variable is initialized but not referenced
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(304,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(304,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(310,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(310,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(323,37): warning C4459: declaration of 'player_state' hides global declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(43,11):
+  see declaration of 'player_state'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(342,20): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(374,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(387,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(387,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(388,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(388,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(389,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(389,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(390,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(390,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(391,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(391,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\definitons.h(10,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\definitons.h(14,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\definitons.h(88,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\definitons.h(149,9): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(137,7):
+  see declaration of 'Vector3'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\definitons.h(150,9): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.h(137,7):
+  see declaration of 'Vector3'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\aimbot.h(9,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\menu.h(35,3): warning C4456: declaration of 'spoof' hides previous local declaration
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\menu.h(24,2):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(107,20): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(107,20): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(107,20): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(108,20): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(108,20): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(108,20): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(109,20): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(109,20): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(109,20): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(121,21): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(121,21): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(121,21): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(122,21): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(122,21): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(122,21): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(54,32): warning C4100: 'argv': unreferenced formal parameter
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(54,14): warning C4100: 'argc': unreferenced formal parameter
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(92,10): warning C4189: 'originalColor': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(69,9): warning C4189: 'consoleDC': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(86,9): warning C4101: 'option': unreferenced local variable
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(81,10): warning C4189: 'savedColor': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(72,9): warning C4189: 'windowWidth': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(280,5): warning C4002: too many arguments for function-like macro invocation 'XorS'
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(305,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(305,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(319,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(324,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(324,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(323,70): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(323,55): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(329,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(329,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(328,70): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(328,55): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(379,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(402,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(404,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(312,5):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(421,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(425,61): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(425,61):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(429,61): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(429,61):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(437,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(471,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(471,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(480,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(491,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(491,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(496,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(499,53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(499,42): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(511,63): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(511,53): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(511,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(511,37): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(521,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(528,42): warning C4130: '!=': logical operation on address of string constant
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(531,117): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(531,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(565,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(565,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(565,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(565,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(566,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(566,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(566,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(566,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(567,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(567,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(567,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(567,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(568,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(568,107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(568,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(568,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(569,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(569,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(569,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(569,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(570,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(570,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(570,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(570,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(571,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(571,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(571,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(571,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(572,121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(572,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(572,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(572,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(573,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(573,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(573,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(573,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(574,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(574,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(574,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(574,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(575,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(575,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(575,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(575,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(576,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(576,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(576,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(576,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(582,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(583,33): warning C4456: declaration of 'vHeadBone' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(535,29):
+  see declaration of 'vHeadBone'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(604,33): warning C4456: declaration of 'vHeadBoneOut' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(537,29):
+  see declaration of 'vHeadBoneOut'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(621,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(621,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(621,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(621,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(622,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(622,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(622,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(622,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(623,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(623,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(623,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(623,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(624,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(624,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(624,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(624,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(625,102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(625,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(625,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(625,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(626,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(626,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(626,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(626,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(627,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(627,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(627,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(627,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(628,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(628,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(628,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(628,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(629,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(629,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(629,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(629,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(630,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(630,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(630,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(630,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(631,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(631,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(631,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(631,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(632,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(632,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(632,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(632,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(633,94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(633,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(633,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(633,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(634,98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(634,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(634,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(634,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(640,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(642,163): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(642,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(642,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(642,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(650,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(651,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(651,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(651,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(651,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(655,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(660,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(660,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(666,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(666,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(672,25): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(673,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(673,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(673,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(677,29): warning C4551: function call missing argument list
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(678,29): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(680,167): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(680,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(680,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(680,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(683,29): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(412,21):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(685,166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(685,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(685,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(685,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(690,21): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(312,5):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(694,21): warning C4456: declaration of 'spoof' hides previous local declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(312,5):
+  see declaration of 'spoof'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(701,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(743,11): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(469,33): warning C4189: 'font': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(443,30): warning C4189: 'is_reloading': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(442,30): warning C4189: 'myis_reloading': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(470,31): warning C4189: 'fontSize': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(444,30): warning C4189: 'ammocount': local variable is initialized but not referenced
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(793,29): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(794,29): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(829,42): warning C4459: declaration of 'Message' hides global declaration
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(747,5):
+  see declaration of 'Message'
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\xor.hpp(224,33):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(657,29):
+  	see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6>>' being compiled
+  	C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\xor.hpp(222,11):
+  	while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6>>::decrypt(void)'
+  		C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(659,38):
+  		see the first reference to 'CXorString<IndexList<0,1,2,3,4,5,6>>::decrypt' in 'DrawESP'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xutility(4537,18):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(360,20):
+  	see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  		C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(360,2):
+  		see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'GetPlayerName'
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xstring(2600,17):
+  	see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.39.33519\include\xstring(2756,18):
+  	see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\ud.h(7,24): warning C4505: 'MouseController::Init': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\ud.h(68,24): warning C4505: 'MouseController::Move_Mouse': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\ud.h(81,21): warning C4505: 'MouseController::GetAsyncKeyState': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Print.hpp(161,20): warning C4505: 'string_to_timet': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Print.hpp(168,16): warning C4505: 'timet_to_tm': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(161,13): warning C4505: 'DrawCornerBox': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(232,22): warning C4505: '_GetProcessId': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(371,13): warning C4505: 'DrawCircleFilled': unreferenced function with internal linkage has been removed
+  (compiling source file 'main.cpp')
+  
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(101,1): warning C4723: potential divide by 0
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\Header.h(101,1): warning C4723: potential divide by 0
+C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\main.cpp(565,1): warning C4701: potentially uninitialized local variable 'ESPSkeleton' used
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  reverse.vcxproj -> C:\Users\M1ndyy\Desktop\VIPEWARE PASTA\build\VIPEWARE.exe

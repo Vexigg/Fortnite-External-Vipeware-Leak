@@ -1,0 +1,2 @@
+﻿  TRACKER : Fehler TRK0002: Fehler beim Ausführen des Befehls ""C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe" @C:\Users\JANI\AppData\Local\Temp\MSBuildTemp\tmpeb7ad354790d458bb8c3d9cd9101022e.rsp". Zugriff verweigert
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(755,5): error MSB6006: "CL.exe" wurde mit dem Code 2 beendet.
